@@ -2,6 +2,6 @@
 
 This is HomestayBooking Website
 
-Fronted-end: HTML/CSS/Javascript/Bootstrap/n
+Fronted-end: HTML/CSS/Javascript/Bootstrap
 
 Backed-end: Java/MySQL Server
